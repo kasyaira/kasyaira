@@ -59,7 +59,6 @@
         alt="GitHub Statistics"
       />
     </td>
-
     <td align="center" width="50%">
       <img
         src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kasyaira&layout=compact&hide_border=true&bg_color=050510&title_color=8B5DFF&text_color=C9D1D9&langs_count=6"
